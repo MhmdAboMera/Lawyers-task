@@ -29,6 +29,8 @@ svg.svg-inline--fa.fa-phone-volume,
 svg.svg-inline--fa.fa-crown,
 svg.svg-inline--fa.fa-star {
   color:  var(--yelow);
+  font-size: 12px;
+
 }
 
 .info-text{

@@ -28,7 +28,7 @@ function OneLawyer() {
             <div className={`${style.infoBox} p-4 mb-4`}>
               <h3 className={`${style.infoTitle} mb-3`}>المعلومات الشخصية</h3>
               <div className="row">
-                <div className="col-3">
+                <div className="col-sm-12 col-md-3">
                   <div className={`${style.infoimgBox}`}>
                     <img
                       src={lawyer.photo}
@@ -36,7 +36,7 @@ function OneLawyer() {
                     ></img>
                   </div>
                 </div>
-                <div className="col-9">
+                <div className="col-sm-12 col-md-9">
                   <h3 className={`${style.infoName} `}>{lawyer.name} </h3>
                   <div
                     className={`${style.categorieCount} py-1 d-flex gap-1 align-items-center info-text`}
