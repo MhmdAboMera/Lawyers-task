@@ -1,0 +1,9 @@
+.navBrand{
+    width: 138.28px;
+}
+.logo {
+    padding: 0px 15px;
+}
+.navBar a {
+color: var(--primary-color) ;
+}

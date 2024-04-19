@@ -1,0 +1,35 @@
+.Price{
+    border-radius: 8px;
+    background: #F9F9F9;
+}
+.priceTitle {
+    color: #2C4768;
+    font-family: Almarai;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.des {
+    color: #2C4768;
+    text-align: right;
+    font-family: Almarai;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; /* 133.333% */
+}
+.priceNum {
+    color: #3FD06F;
+    text-align: right;
+    font-family: Almarai;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 66.667% */
+}
+.btnOrder {
+    border-radius: 12px !important;
+border: 1px solid #DDB762 !important;
+background: #DDB762 !important;
+color: #fff !important;
+}
